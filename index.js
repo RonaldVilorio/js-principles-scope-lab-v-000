@@ -1,2 +1,2 @@
 // Write your solution in this file!
- Window.customerName = 'bob';
+customerName=  Window.customerName = 'bob';
