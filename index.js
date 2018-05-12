@@ -3,3 +3,6 @@ customerName =  Window.customerName = 'bob';
 function upperCaseCustomerName(name){
   customerName = "BOB"
 }
+function setBestCustomer(){
+  
+}
