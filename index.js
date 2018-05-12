@@ -4,5 +4,5 @@ function upperCaseCustomerName(name){
   customerName = "BOB"
 }
 function setBestCustomer(){
-
+  window.bestCustomer = 'not bob'
 }
