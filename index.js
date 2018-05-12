@@ -9,3 +9,6 @@ function setBestCustomer(){
 function overwriteBestCustomer(){
   window.bestCustomer = 'maybe bob'
 }
+function changeLeastFavoriteCustomer(){
+  
+}
