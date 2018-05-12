@@ -10,5 +10,5 @@ function overwriteBestCustomer(){
   window.bestCustomer = 'maybe bob'
 }
 function changeLeastFavoriteCustomer(){
-  leastfavoriteCustomer = "not me"
+  window.leastfavoriteCustomer = "not me"
 }
