@@ -1,7 +1,7 @@
 // Write your solution in this file!
 customerName =  Window.customerName = 'bob';
 function upperCaseCustomerName(name){
-  customerName.capitalize
+  customerName.upcase
 }
 function setBestCustomer(){
 
